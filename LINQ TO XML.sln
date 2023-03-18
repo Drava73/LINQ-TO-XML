@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ TO XML", "LINQ TO XML\LINQ TO XML.csproj", "{4717F934-E2E8-4407-B379-C7F67475D10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4717F934-E2E8-4407-B379-C7F67475D10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4717F934-E2E8-4407-B379-C7F67475D10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4717F934-E2E8-4407-B379-C7F67475D10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4717F934-E2E8-4407-B379-C7F67475D10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {093FA7CF-8C2A-42FC-AF3E-E25A5109BD5E}
+	EndGlobalSection
+EndGlobal
